@@ -1,0 +1,56 @@
+body {
+    margin: 0rem;
+}
+
+.el-aside {
+    color: #333;
+}
+
+.el-header {
+    background-color: #B3C0D1;
+    color: #333;
+    line-height: 60px;
+}
+
+// 详情页面样式
+.form-read-only {
+    font-size: 0;
+}
+
+.form-read-only label {
+    width: 80px;
+    color: #99a9bf;
+}
+
+.form-read-only .el-form-item {
+    margin-right: 0;
+    margin-bottom: 0;
+    width: 272px;
+}
+
+.tree-form-top {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+}
+
+.el-select .el-input__inner {
+    padding-right: 10px;
+}
+
+.form-tab-top-info {
+    padding-bottom: 5px;
+}
+
+.tcis-tabs {
+    margin-top: 10px;
+}
+
+.main-content {
+    border-top: solid #99a9bf;
+    padding-top: 10px;
+}
+
+.table-btn {
+    margin: 2px;
+}

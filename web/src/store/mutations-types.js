@@ -1,0 +1,1 @@
+export const GLOBAL_SET_USERINFO = 'GLOBAL_SET_USERINFO' // 设置用户信息

@@ -1,0 +1,5 @@
+Django==1.11.7
+django-suit==0.2.25
+djangorestframework==3.7.3
+channels==1.1.8
+django_filter==1.1.0
